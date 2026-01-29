@@ -6,12 +6,18 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="ai-usage-tracker",
     version="0.1.0",
-    author="Autonomous Initiatives",
+    author="Michael Verrilli",
     author_email="",
     description="Track AI API usage and costs across multiple providers",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/ai-usage-tracker",
+    url="https://github.com/mverrilli/ai-usage-tracker-cli",
+    project_urls={
+        "Sponsor": "https://github.com/sponsors/mverrilli",
+        "Source": "https://github.com/mverrilli/ai-usage-tracker-cli",
+        "Tracker": "https://github.com/mverrilli/ai-usage-tracker-cli/issues",
+        "Documentation": "https://github.com/mverrilli/ai-usage-tracker-cli#readme",
+    },
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",

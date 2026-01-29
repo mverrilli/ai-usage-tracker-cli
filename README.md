@@ -168,13 +168,55 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you find this tool useful, consider supporting its development:
+If you find this tool useful, consider supporting its development through GitHub Sponsors. Your support helps fund ongoing development, maintenance, and new features.
 
-- **GitHub Sponsors**: [Sponsor me on GitHub](https://github.com/sponsors/mverrilli)
-- **Buy Me a Coffee**: [buymeacoffee.com/mverrilli](https://buymeacoffee.com/mverrilli)
+### 🏆 Sponsorship Tiers
+
+#### Tier 1: Supporter ($3/month)
+- 🎖️ Name listed in README supporters section
+- 📝 Early access to new features (beta releases)
+- 🐛 Basic support via GitHub Issues
+- ❤️ Satisfaction of supporting open source
+
+#### Tier 2: Sponsor ($10/month)
+- ⚡ Priority feature requests
+- 📧 Direct email support
+- 🔧 Custom alert configurations
+- 🏆 Name in special sponsors section with link
+- 📊 Monthly usage report insights
+
+#### Tier 3: Organization ($50/month)
+- 🤝 Custom integrations for your workflow
+- 🏢 Enterprise support (SLA)
+- 🎯 Private consulting sessions (1 hour/month)
+- 🏅 Logo displayed on project page
+- 📈 Advanced analytics and reporting
+
+### Current Sponsors
+
+#### 🏆 Gold Sponsors ($50+/month)
+*Be the first Gold Sponsor!*
+
+#### 🥈 Silver Sponsors ($10+/month)
+*Be the first Silver Sponsor!*
+
+#### 🥉 Supporters ($3+/month)
+*Be the first Supporter!*
+
+### Become a Sponsor
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=github)](https://github.com/sponsors/mverrilli)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mverrilli)
+
+### How Sponsor Funds Are Used
+- **Development**: New features and improvements
+- **Maintenance**: Bug fixes and updates
+- **Documentation**: Better guides and tutorials
+- **Infrastructure**: Hosting for web dashboard (planned)
+- **Community**: Support for users and contributors
 
 ## Acknowledgments
 
 - Built as part of the Autonomous Initiatives project
 - Inspired by the need for better AI cost management
 - Thanks to all contributors and supporters
+- Special thanks to future sponsors who will help this project grow
