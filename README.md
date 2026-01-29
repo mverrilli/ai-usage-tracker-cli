@@ -15,12 +15,12 @@ Track AI API usage and costs across multiple providers in a single, local-first 
 
 ```bash
 # Install from source
-git clone https://github.com/yourusername/ai-usage-tracker.git
-cd ai-usage-tracker
+git clone https://github.com/mverrilli/ai-usage-tracker-cli.git
+cd ai-usage-tracker-cli
 pip install -e .
 
-# Or install directly
-pip install ai-usage-tracker
+# Or install directly (coming soon)
+# pip install ai-usage-tracker
 ```
 
 ## Quick Start
@@ -138,8 +138,8 @@ logging:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/ai-usage-tracker.git
-cd ai-usage-tracker
+git clone https://github.com/mverrilli/ai-usage-tracker-cli.git
+cd ai-usage-tracker-cli
 
 # Install development dependencies
 pip install -e ".[dev]"
@@ -170,8 +170,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this tool useful, consider supporting its development:
 
-- **GitHub Sponsors**: [Sponsor me on GitHub](https://github.com/sponsors/yourusername)
-- **Buy Me a Coffee**: [buymeacoffee.com/yourusername](https://buymeacoffee.com/yourusername)
+- **GitHub Sponsors**: [Sponsor me on GitHub](https://github.com/sponsors/mverrilli)
+- **Buy Me a Coffee**: [buymeacoffee.com/mverrilli](https://buymeacoffee.com/mverrilli)
 
 ## Acknowledgments
 
