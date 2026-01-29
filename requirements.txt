@@ -1,0 +1,8 @@
+# AI Usage Tracker CLI requirements
+# No external dependencies required - uses built-in sqlite3
+
+# Development dependencies (optional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
+mypy>=0.991

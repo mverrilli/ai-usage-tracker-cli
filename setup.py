@@ -19,6 +19,9 @@ setup(
         "Documentation": "https://github.com/mverrilli/ai-usage-tracker-cli#readme",
     },
     packages=find_packages(),
+    package_data={
+        "ai_usage_tracker": ["*.sql"],
+    },
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
